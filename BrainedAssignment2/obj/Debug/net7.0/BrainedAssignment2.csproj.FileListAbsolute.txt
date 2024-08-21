@@ -1,0 +1,14 @@
+C:\Brained\BrainedAssignment2\bin\Debug\net7.0\BrainedAssignment2.exe
+C:\Brained\BrainedAssignment2\bin\Debug\net7.0\BrainedAssignment2.deps.json
+C:\Brained\BrainedAssignment2\bin\Debug\net7.0\BrainedAssignment2.runtimeconfig.json
+C:\Brained\BrainedAssignment2\bin\Debug\net7.0\BrainedAssignment2.dll
+C:\Brained\BrainedAssignment2\bin\Debug\net7.0\BrainedAssignment2.pdb
+C:\Brained\BrainedAssignment2\obj\Debug\net7.0\BrainedAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Brained\BrainedAssignment2\obj\Debug\net7.0\BrainedAssignment2.AssemblyInfoInputs.cache
+C:\Brained\BrainedAssignment2\obj\Debug\net7.0\BrainedAssignment2.AssemblyInfo.cs
+C:\Brained\BrainedAssignment2\obj\Debug\net7.0\BrainedAssignment2.csproj.CoreCompileInputs.cache
+C:\Brained\BrainedAssignment2\obj\Debug\net7.0\BrainedAssignment2.dll
+C:\Brained\BrainedAssignment2\obj\Debug\net7.0\refint\BrainedAssignment2.dll
+C:\Brained\BrainedAssignment2\obj\Debug\net7.0\BrainedAssignment2.pdb
+C:\Brained\BrainedAssignment2\obj\Debug\net7.0\BrainedAssignment2.genruntimeconfig.cache
+C:\Brained\BrainedAssignment2\obj\Debug\net7.0\ref\BrainedAssignment2.dll
